@@ -12,6 +12,6 @@ Localhost repo is under catch of the day folder<br />
 clone the repo<br />
 run npm install<br />
 run npm start<br />
-visit - localhost:1313<br /><br />
+visit - localhost:3000<br /><br />
 
 Enjoy!!!
