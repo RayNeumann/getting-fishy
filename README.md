@@ -9,6 +9,8 @@ Load Sample Fishes
 
 
 Localhost repo is under catch of the day folder
+clone the repo
+run npm install
 run npm start
 visit - localhost:1313
 
